@@ -19,7 +19,7 @@ This is an **AI-powered chatbot** built using **Groq API** and **Streamlit**. It
 ✔️ **Easy Deployment**  
 
 ## 📸 Demo Screenshot
-![Chatbot in Action](assets/demo.png)  
+![Chatbot in Action](Network_server.png)  
 _(Make sure to replace this with the actual screenshot of your chatbot in `assets/` folder)_
 
 ## 🛠️ Installation & Setup
