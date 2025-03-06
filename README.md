@@ -25,5 +25,5 @@ _(Make sure to replace this with the actual screenshot of your chatbot in `asset
 ## 🛠️ Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/groq-chatbot.git
+git clone https://github.com/yourusername/groq-chatbot.git](https://github.com/SrikanthP126/quick_bot_groq.git)
 cd groq-chatbot
