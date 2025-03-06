@@ -1,7 +1,6 @@
 # 🚀 Groq AI Chatbot - Streamlit Web App
 
 ![Groq Chatbot](local_server.png)  
-*(Replace `assets/demo.png` with your actual image path)*
 
 ## 🌟 Overview
 This is an **AI-powered chatbot** built using **Groq API** and **Streamlit**. It provides real-time AI responses through a simple, interactive web interface.
@@ -20,7 +19,7 @@ This is an **AI-powered chatbot** built using **Groq API** and **Streamlit**. It
 
 ## 📸 Demo Screenshot
 ![Chatbot in Action](Network_server.png)  
-_(Make sure to replace this with the actual screenshot of your chatbot in `assets/` folder)_
+
 
 ## 🛠️ Installation & Setup
 ### **1️⃣ Clone the Repository**
