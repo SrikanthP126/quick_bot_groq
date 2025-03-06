@@ -1,6 +1,6 @@
 # 🚀 Groq AI Chatbot - Streamlit Web App
 
-![Groq Chatbot](assets/demo.png)  
+![Groq Chatbot](assets/local_server.png)  
 *(Replace `assets/demo.png` with your actual image path)*
 
 ## 🌟 Overview
