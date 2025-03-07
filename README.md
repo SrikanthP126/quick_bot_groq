@@ -105,10 +105,3 @@ This project is open-source under the **MIT License**.
 
 ---
 
-## 💬 **Have Feedback?**
-💡 Have ideas for improving this chatbot?  
-💬 What features would you like to see?  
-
-Drop your thoughts in the **Discussions** tab or open an issue! 🚀  
-
-#AI #Groq #Chatbot #Python #Streamlit #MachineLearning #Deployment #GitHub #Cloud #APIs #Innovation #Mixtral #LLMs
