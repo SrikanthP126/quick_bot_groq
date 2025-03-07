@@ -30,8 +30,7 @@ To use this chatbot, you'll need a **Groq API key**. Follow these steps to get s
 ## 🛠️ **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/Groq-Chatbot.git
-cd Groq-Chatbot
+git clone https://github.com/SrikanthP126/quick_bot_groq.git
 ```
 
 ### **2️⃣ Install Dependencies**
