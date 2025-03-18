@@ -90,16 +90,6 @@ If you’re a developer, AI enthusiast, or just curious about **how to build pow
 
 ---
 
-## 🤝 **Contributing**
-If you’d like to contribute:
-1. **Fork this repo**
-2. **Create a new branch**
-3. **Submit a pull request with your improvements!**
-
-Feel free to **open an issue** for suggestions or enhancements.
-
----
-
 ## 📜 **License**
 This project is open-source under the **MIT License**.
 
